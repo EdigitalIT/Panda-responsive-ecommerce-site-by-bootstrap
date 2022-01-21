@@ -1,3 +1,10 @@
 .bgcolor-tv {
 	background-color: #FEEAE9;
 }
+.div-transform:hover img {
+	transform: rotate(360deg);
+	transition: 5s;
+	transition-duration: 4s;
+	transition-duration: 3s;
+	scroll-behavior: smooth;
+}
